@@ -34,9 +34,9 @@ La lógica utiliza un modelo local de lenguaje y expresiones regulares para proc
 
 ## 2. Hallazgos
 
-### Activo 1: Servidor de base de datos
-
 ![Agregar nuevo activo](img/agregaractivo.png)
+
+### Activo 1: Servidor de base de datos
 
 **Evidencia:**  
 ![Servidor de base de datos](img/activo1.png)
